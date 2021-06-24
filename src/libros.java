@@ -4,7 +4,7 @@ public class  libros {
 	
     private String nombre;
     private int codigo;
-    private int SBN;
+    private int ISBN;
     
     /*abtraccion*/
     void tipo(String color, String tamaño){
