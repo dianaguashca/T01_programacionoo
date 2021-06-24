@@ -1,9 +1,8 @@
 
-public class usuario {
+public class caballo {
 	/*encapsulacion*/ 
     private String nombre;
     private String apellido;
-    public String edad;
     
     /*abtraccion*/
     void correr(String dia, String hora){
@@ -16,10 +15,10 @@ public class usuario {
 	void correr(String noche){
 		int velocidad=0;
 		int edad=8;
-		String valor=noche+1;
+		String arboG=noche+1;
 	}
 	//herencia 
-	
+   
 	}
     
     

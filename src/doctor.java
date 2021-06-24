@@ -1,4 +1,4 @@
 
-public class doctor {
+public class doctor extends Persona {
 
 }
